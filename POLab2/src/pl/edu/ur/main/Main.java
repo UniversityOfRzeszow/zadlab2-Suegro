@@ -178,7 +178,6 @@ public class Main {
             }
             case "6" :
             {
-                boolean koniec = false;
                 int liczba;
                 while(true)
                 {
